@@ -12,5 +12,5 @@ For points in three dimensions, it is again possible to find the maximal points 
 -For each point, in decreasing order by x-coordinate, test whether its projection onto the yz plane is maximal among the set of projections of the set of points processed so far. If it is, 
  output the point as one of the maximal points, and remember its y-coordinate as the greatest seen so far.
 
-Implemented The Logic In Java was one of my college Assignment. The problems source is wikipedia. Need to provide the arguments as file names or the exact paths. arument 1 is for input file.
+The problems source is wikipedia. Need to provide the arguments as file names or the exact paths. arument 1 is for input file.
 argument 2 is output file. A sample input file is provided. You can create a blank output file
